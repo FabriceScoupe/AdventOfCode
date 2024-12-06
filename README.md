@@ -1,3 +1,3 @@
 # AdventOfCode
-Solutions of [Advent of Code](https://adventofcode) problems (in Python mostly).
+Solutions of [Advent of Code](https://adventofcode.com) problems (in Python mostly).
 
